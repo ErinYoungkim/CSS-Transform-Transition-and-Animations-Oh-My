@@ -10,6 +10,7 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
+  font-weight: bolder;
 }
 
 main > div {
